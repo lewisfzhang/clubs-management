@@ -1,119 +1,120 @@
-Investment Club,117393
-Partners in Health Engage,119503
-Praxis Operation Super Bowl,156135
-Table Top Gaming Club,172445
-Model UN,199976
-E-Sports Video Gaming,208237
-KBCP,222806
-Coffee Club,250408
-Netflix Club,270078
-Outdoor Volleyball Club,274155
-We Care Solar Club,275383
-Pokemon Club,278313
-E-Soccer,280707
-Art & Banner Club,283794
-Interact,289426
-The Juggling Club,296467
-Ice Hockey,300841
-Rowing Club,307836
-BCP Time Lords Association,309495
-Blues and Jazz Club,319896
-Club EDM,320291
-Kiva Club,320601
-STEM-Med,330447
-Bell Hacks,334495
-2016 Election Club,338462
-Avatar/Airbender Club,346098
-Handball Club,355443
-Comics Club,362531
-MAECAVO,376230
-Debate Sphere,376291
-Table Tennis,382958
-Fishing Club,383538
-Fantasy Sports Club,386656
-Makerspace,398975
-Outdoor Trading Company,399195
-Guys and Gears,402954
-Filipino Student Association,403376
-Math Club,408110
-BCP Ducks Unlimited,416193
-Badminton Club,417599
-Grateful Dead Club,426278
-Rugby,428270
-Portable Gaming Club,444083
-Key Club,461287
-Taekwondo Club,470578
-Spikeball Club,478692
-Short Film Club,482633
-Science Bowl,484769
-Bellarmine CAPDS,498875
-Bellarmine Historical Society,499770
-Japanese-American Friendship Club,503108
-Free the Children,506171
-National Honors Society,514303
-Charity and Social Media,518620
-BCP Film Club,518801
-Floor Ball,520185
-Indian Student Coalition,525020
-Bellarmine Political Review,528621
-GSCLC,528875
-Sandwich Service,530732
-Chinese Culture Club,531852
-Students Advocating Political Progress,537017
-Beta,557378
-Young Doctors,558301
-Black Student Union,558592
-Mad Science Syndicate,560324
-Swole Club,577013
+Wiffle Ball Club,119503
+Badminton Club,156135
+Outdoor Trading Company,172445
+Outdoor Volleyball Club,199976
+Bellarmine Bowling Club,208237
+Floor Ball,222806
+The Juggling Club,250408
+Fantasy Sports Club,270078
+Taekwondo Club,274155
+Golf Club,275383
+Ultimate Frisbee,278313
+Rugby,280707
+Swole Club,283794
+Table Tennis,289426
+Wake Boarding,296467
+Spikeball Club,300841
+Ice Hockey,307836
+Surfrider Club,309495
+Fishing Club,319896
+Handball Club,320291
+Bellarmine Rowing Club,320601
+Investment Club,324209
+Coffee Club,330447
+Cooking Club,334495
+Bellarmine Blending Club,338462
+Informatics,346098
+Internal Mechanisms,355443
+Makerspace,362531
+Bell Hacks,376230
+Multirotor/Drone Club,376291
+Mechatronics,382958
+Beta,383538
+Programming club,386656
+Video Game Design Club,398975
+Android Club,399195
+Young Doctors,402954
+CAPDS: Bellarmine Career and Professional Development Society,403376
+MAECAVO: Medical and Engineering Careers and Volunteering Opportunities,408110
+STEM-Med,416193
+Team HBV,417599
+Kino Teens Bellarmine,426278
+Music for the Community,428270
+Brothers for Others,444083
+Free the Children,461287
+Debate Sphere,470578
+Partners in Health Engage,478692
+Kiva Club,482633
+Sandwich Service,484769
+American Red Closs Club,498875
+Organ Donation Awareness,499770
+Bells for Life,503108
+AGAPE,506171
+We Care Solar Club,514303
+Praxis Operation Super Bowl,518620
+Charity and Social Media,518801
+Student Environmental Action Society,520185
+Short Film Club,523858
+Interact,525020
+Key Club,528621
+E-Soccer,528875
+Irish Student Union,530732
+Vietnamese Student Association,531852
+Black Student Union,537017
+FEEA - Forum for Eastern European Affairs,557378
+Latino Student Union,558301
+Italian-American Club,558592
+Chinese Culture Club,560324
+Indian Student Coalition,577013
 Mensch Club,586210
-Illusionati (Magic Club),593404
-Photography Club,594821
-American Red Closs Club,609246
-Nonsensicals,624369
-RAP - Rhythm and Poetry,633413
-Bellarmine Chess Club,638005
-Ultimate Frisbee,638894
-Wake Boarding ,648616
-Bellarmine Acappella Group,660281
-Bellarmine Speedcubing Club,687628
-Music for the Community,701032
-Forum for Eastern European Affairs,704310
-Italian-American Club,713417
-Golf Club,714716
-Cooking Club,715882
-Informatics,717314
-BCP Anime Club,724750
-Bellarmine Bowling Club,735066
-Art and Design Club,735591
-Organ Donation Awareness,742304
-AGAPE,748752
-TED-Ed Club,749042
-Economics Club,753840
-Student Environmental Action Society,768418
-BCP Reptile Club,775730
-Surfrider Club,783282
+Japanese-American Friendship Club,593404
+International Cultural Club,609246
+Filipino Student Association,624369
+E-Sports Video Gaming,633413
+Portable Gaming Club,638005
+Bellarmine Chess Club,638894
+Bellarmine Speedcubing Club,648616
+Table Top Gaming Club,660281
+Pokemon Club,687628
+RAP - Rhythm and Poetry,701032
+Photography Club,704310
+Art & Banner Club,713417
+Bellarmine Acappella Group,714716
+Sanguine Humors,715882
+Nonsensicals,717314
+KBCP,724750
+Comics Club,735066
+Bellarmine Art and Design Club,735591
+Students Advocating Political Progress,742304
+2016 Election Club,748752
+Bellarmine Mock Trial,749042
+BCP Young Americans For Freedom,753840
+Bellarmine Political Review,768418
+Model UN,775730
+Head Strong,783282
 Healthy Living Awareness,800753
-Internal Mechanisms,805070
-Team HBV,811306
-Video Game Design Club,814157
-Disney Club,830279
-Android Club,831441
-Blending Club,835518
-Irish Student Union,840655
+Bellarmine Historical Society,805070
+Science Bowl,811306
+Mad Science Syndicate,814157
+Writers' Guild,830279
+Math Club,831441
+Economics Club,835518
+National Honors Society,840655
 Korean Club,845512
-Programming club,852085
-Wiffle Ball Club,877049
-Latino Student Union,880842
-International Cultural Club,881503
-BCP Young Americans For Freedom,895508
-Sanguine Humors,898370
-Bellarmine Mock Trial,917449
-Men of Veritas,926295
-Kino Teens Bellarmine,934185
-Bells for Life,951810
-Vietnamese Student Association ,952454
-Mechatronics,952883
-Writers' Guild,958302
-Brothers for Others,981833
-Head Strong,982102
-Multirotor/Drone Club,986931
+Ted Ed Club,852085
+Club EDM,877049
+Avatar/Airbender Club,880842
+BCP Time Lords Association,881503
+Disney Club,895508
+BCP Anime Club,898370
+Geography for Tomorrow,907273
+Netflix Club,917449
+BCP Film Club,926295
+Blues and Jazz Club,934185
+Grateful Dead Club,951810
+GSCLC,952454
+BCP Ducks Unlimited,952883
+Men of Veritas,958302
+Illusionati (Magic Club),981833
+BCP Reptile Club,982102
+Guys and Gears,986931

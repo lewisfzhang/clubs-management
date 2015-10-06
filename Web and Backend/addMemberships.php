@@ -26,7 +26,7 @@
 		if ($conn->query($sql) === TRUE) {
  		   echo "Membership added successfully: $currentclub:$currentstudent<br>";
 		} else {
-   		 echo "Error: " . $sql . "<br>" . $conn->error;
+   		 echo "Error: " . $sql . ": " . $conn->error . "<br>";
 		}
 	}
 
